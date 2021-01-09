@@ -3,7 +3,7 @@
 
 # production  打包文件
 /build
-
+.idea
 # misc 
 .DS_Store
 
